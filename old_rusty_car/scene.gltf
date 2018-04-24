@@ -291,25 +291,25 @@
   ],
   "images": [
     {
-      "uri": "textures/Material_295_baseColor.png"
+      "uri": "https://raw.githubusercontent.com/thomas-schweich/dfaw/master/old_rusty_car/textures/Material_295_baseColor.png"
     },
     {
-      "uri": "textures/Material_295_metallicRoughness.png"
+      "uri": "https://raw.githubusercontent.com/thomas-schweich/dfaw/master/old_rusty_car/textures/Material_295_metallicRoughness.png"
     },
     {
-      "uri": "textures/Material_295_normal.png"
+      "uri": "https://raw.githubusercontent.com/thomas-schweich/dfaw/master/old_rusty_car/textures/Material_295_normal.png"
     },
     {
-      "uri": "textures/Material_294_baseColor.png"
+      "uri": "https://raw.githubusercontent.com/thomas-schweich/dfaw/master/old_rusty_car/textures/Material_294_baseColor.png"
     },
     {
-      "uri": "textures/Material_294_normal.png"
+      "uri": "https://raw.githubusercontent.com/thomas-schweich/dfaw/master/old_rusty_car/textures/Material_294_normal.png"
     },
     {
-      "uri": "textures/Material_294_metallicRoughness.png"
+      "uri": "https://raw.githubusercontent.com/thomas-schweich/dfaw/master/old_rusty_car/textures/Material_294_metallicRoughness.png"
     },
     {
-      "uri": "textures/Material_316_baseColor.png"
+      "uri": "https://raw.githubusercontent.com/thomas-schweich/dfaw/master/old_rusty_car/textures/Material_316_baseColor.png"
     }
   ],
   "materials": [
